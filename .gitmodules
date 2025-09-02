@@ -1,0 +1,3 @@
+[submodule "lfs-test-submodule-ownrepo"]
+	path = lfs-test-submodule-ownrepo
+	url = ../lfs-test-submodule
