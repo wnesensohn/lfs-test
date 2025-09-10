@@ -1,3 +1,9 @@
 [submodule "lfs-test-submodule-ownrepo"]
 	path = lfs-test-submodule-ownrepo
 	url = ../lfs-test-submodule
+[submodule "src/LemonTreePublicDemo"]
+	path = src/LemonTreePublicDemo
+	url = ../../danielsiegl/LemonTreePublicDemo
+[submodule "bin/LemonTreePublicDemo"]
+	path = bin/LemonTreePublicDemo
+	url = ../../danielsiegl/LemonTreePublicDemo
