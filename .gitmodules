@@ -4,6 +4,9 @@
 [submodule "src/LemonTreePublicDemo"]
 	path = src/LemonTreePublicDemo
 	url = ../../danielsiegl/LemonTreePublicDemo
-[submodule "bin/LemonTreePublicDemo"]
-	path = bin/LemonTreePublicDemo
+[submodule "LemonTreePublicDemo"]
+	path = LemonTreePublicDemo
 	url = ../../danielsiegl/LemonTreePublicDemo
+[submodule "LemonTreePublicDemox"]
+	path = LemonTreePublicDemox
+	url = git@github.com:danielsiegl/LemonTreePublicDemo.git
